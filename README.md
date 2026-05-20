@@ -132,4 +132,4 @@ Future Enhancements
 - IoT-based monitoring
 - Voice alerts
 
-This project is developed as part of an Embedded Systems / BTech project using LPC2148 microcontroller
+This project is developed as part of an Embedded Systems using LPC2148 microcontroller
